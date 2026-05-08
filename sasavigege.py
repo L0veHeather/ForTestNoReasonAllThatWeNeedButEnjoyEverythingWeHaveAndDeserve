@@ -2,5 +2,12 @@ import main
 printf
 
 ForTestNoReasonAllThatWeNeedButEnjoyEverythingWeHaveAndDeserve but for funnnnnn，
-codemoreoutsideinsteadofpingpingfullno，
+codemoreoutsideinsteadofpingpingfull，
 ForTestNoReasonAllThatWeNeedButEnjoyEverythingWeHaveAndDeserve
+
+void codemoreoutsideinsteadofpingpingfull{string []}
+class codemoreoutsideinsteadofpingpingfull
+switch(){
+  in case ForTestNoReasonAllThatWeNeedButEnjoyEverythingWeHaveAndDeserve,
+else codemoreoutsideinsteadofpingpingfull
+}
