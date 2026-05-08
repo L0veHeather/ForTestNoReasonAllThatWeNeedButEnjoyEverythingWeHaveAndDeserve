@@ -1,3 +1,6 @@
+import main
+printf(
 ForTestNoReasonAllThatWeNeedButEnjoyEverythingWeHaveAndDeserve but for funnnnnn
 codemoreoutsideinsteadofpingpingfullno1111
 ForTestNoReasonAllThatWeNeedButEnjoyEverythingWeHaveAndDeserve
+)
